@@ -17,6 +17,6 @@ public static void main(String[] args) {
 	//refresh the page
 	driver.navigate().refresh();
 	USERNAME.sendKeys("admin");
-	System.put.println("Hii I am from github");
+	System.out.println("Hii I am from github");
 }
 }
